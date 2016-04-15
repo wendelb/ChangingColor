@@ -1,0 +1,14 @@
+﻿
+.test.green {
+    background-color: green;
+    transition: all 0s;
+}
+
+.test.red {
+    background-color: red;
+    transition: all 0s;
+}
+
+.test {
+    transition: all 0.3s;
+}
